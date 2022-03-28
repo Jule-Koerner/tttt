@@ -27,7 +27,10 @@ This dataset also contains several other genres that might be interesting for fu
 
 # Listen to a generated sample
 
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="C:\Users\jule-\Documents\Uni\IANNwtf\final_project\sound.mp3.mp3">Your browser does not support the audio tag.</audio>
+
+https://user-images.githubusercontent.com/64217756/160489337-0be11b1e-4f41-4fbe-a3cf-6f43be9d3789.mov
+
+
 
 # Usage
 
